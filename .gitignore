@@ -36,3 +36,5 @@
 *.code-workspace
 
 # End of https://www.gitignore.io/api/go,visualstudiocode
+
+/I2C_DEVICES/
